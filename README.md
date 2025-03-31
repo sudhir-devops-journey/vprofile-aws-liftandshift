@@ -4,6 +4,10 @@
 
 ![VProfile Arch](architecture.webp)
 
+### Follow step-by-step guide
+
+https://blog.devgenius.io/deploying-a-java-program-on-tomcat-using-aws-a-step-by-step-guide-3d82037283db
+
 # Prerequisites
 #
 - JDK 11 
