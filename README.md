@@ -1,3 +1,9 @@
+## 🚀 VProfile Project Setup AWS
+
+### Architecture of VProfile Architecture
+
+![VProfile Arch](3 tier aws architecture.webp)
+
 # Prerequisites
 #
 - JDK 11 
